@@ -1,0 +1,61 @@
+player_id,first_name,last_name,birth_date,position,team_id,jersey_number
+1,Aaron,Judge,1992-04-26,RF,1,99
+2,Gerrit,Cole,1990-09-08,P,1,45
+3,Rafael,Devers,1996-10-24,3B,2,11
+4,Chris,Sale,1989-03-30,P,2,41
+5,Vladimir,Guerrero Jr.,1999-03-16,1B,3,27
+6,Bo,Bichette,1998-03-05,SS,3,11
+7,Wander,Franco,2001-03-01,SS,4,5
+8,Shane,McClanahan,1997-04-28,P,4,18
+9,Adley,Rutschman,1998-02-06,C,5,35
+10,Gunnar,Henderson,2001-06-29,SS,5,2
+11,Luis,Robert Jr.,1997-08-03,CF,6,88
+12,Dylan,Cease,1995-12-28,P,6,84
+13,Jose,Ramirez,1992-09-17,3B,7,11
+14,Shane,Bieber,1995-05-31,P,7,57
+15,Riley,Greene,2000-09-28,CF,8,31
+16,Tarik,Skubal,1996-11-20,P,8,29
+17,Bobby,Witt Jr.,2000-06-14,SS,9,7
+18,Brady,Singer,1996-08-04,P,9,51
+19,Byron,Buxton,1993-12-18,CF,10,25
+20,Pablo,Lopez,1996-03-07,P,10,49
+21,Yordan,Alvarez,1997-06-27,DH,11,44
+22,Framber,Valdez,1993-11-19,P,11,59
+23,Mike,Trout,1991-08-07,CF,12,27
+24,Shohei,Ohtani,1994-07-05,DH,12,17
+25,Brent,Rooker,1994-11-01,LF,13,25
+26,Mason,Miller,1998-08-07,P,13,57
+27,Julio,Rodriguez,2000-12-29,CF,14,44
+28,Logan,Gilbert,1997-05-05,P,14,36
+29,Corey,Seager,1994-04-27,SS,15,5
+30,Nathan,Eovaldi,1990-02-13,P,15,17
+31,Ronald,Acuna Jr.,1997-12-18,RF,16,13
+32,Spencer,Strider,1998-10-28,P,16,99
+33,Jazz,Chisholm Jr.,1998-02-01,CF,17,2
+34,Jesus,Luzardo,1997-09-30,P,17,44
+35,Francisco,Lindor,1993-11-14,SS,18,12
+36,Kodai,Senga,1993-01-30,P,18,34
+37,Bryce,Harper,1992-10-16,1B,19,3
+38,Zack,Wheeler,1990-05-30,P,19,45
+39,CJ,Abrams,2000-10-03,SS,20,5
+40,MacKenzie,Gore,1999-02-24,P,20,1
+41,Nico,Hoerner,1997-05-13,2B,21,2
+42,Justin,Steele,1995-07-11,P,21,35
+43,Elly,De La Cruz,2002-01-11,SS,22,44
+44,Hunter,Greene,1999-08-06,P,22,21
+45,William,Contreras,1997-12-24,C,23,24
+46,Corbin,Burnes,1994-10-22,P,23,39
+47,Oneil,Cruz,1998-10-04,SS,24,15
+48,Paul,Skenes,2002-05-29,P,24,32
+49,Nolan,Arenado,1991-04-16,3B,25,28
+50,Sonny,Gray,1989-11-07,P,25,54
+51,Corbin,Carroll,2000-08-21,RF,26,7
+52,Zac,Gallen,1995-08-03,P,26,23
+53,Ezequiel,Tovar,2001-08-01,SS,27,14
+54,Kyle,Freeland,1993-05-14,P,27,21
+55,Shohei,Ohtani,1994-07-05,DH,28,17
+56,Tyler,Glasnow,1993-08-23,P,28,31
+57,Fernando,Tatis Jr.,1999-01-02,RF,29,23
+58,Joe,Musgrove,1992-12-04,P,29,44
+59,Heliot,Ramos,1999-09-07,RF,30,17
+60,Logan,Webb,1996-11-18,P,30,62

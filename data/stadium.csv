@@ -1,0 +1,31 @@
+stadium_id,stadium_name,city,state,capacity,opened_year,team_id
+1,Yankee Stadium,New York,NY,47309,2009,1
+2,Fenway Park,Boston,MA,37755,1912,2
+3,Rogers Centre,Toronto,Ontario,49282,1989,3
+4,Tropicana Field,St. Petersburg,FL,25000,1990,4
+5,Oriole Park at Camden Yards,Baltimore,MD,45971,1992,5
+6,Guaranteed Rate Field,Chicago,IL,40615,1991,6
+7,Progressive Field,Cleveland,OH,35041,1994,7
+8,Comerica Park,Detroit,MI,41083,2000,8
+9,Kauffman Stadium,Kansas City,MO,37903,1973,9
+10,Target Field,Minneapolis,MN,38544,2010,10
+11,Minute Maid Park,Houston,TX,41168,2000,11
+12,Angel Stadium,Anaheim,CA,45517,1966,12
+13,Oakland Coliseum,Oakland,CA,46847,1966,13
+14,T-Mobile Park,Seattle,WA,47943,1999,14
+15,Globe Life Field,Arlington,TX,40300,2020,15
+16,Truist Park,Atlanta,GA,41084,2017,16
+17,LoanDepot Park,Miami,FL,36742,2012,17
+18,Citi Field,New York,NY,41922,2009,18
+19,Citizens Bank Park,Philadelphia,PA,42792,2004,19
+20,Nationals Park,Washington,DC,41339,2008,20
+21,Wrigley Field,Chicago,IL,41649,1914,21
+22,Great American Ball Park,Cincinnati,OH,42319,2003,22
+23,American Family Field,Milwaukee,WI,41900,2001,23
+24,PNC Park,Pittsburgh,PA,38747,2001,24
+25,Busch Stadium,St. Louis,MO,45494,2006,25
+26,Chase Field,Phoenix,AZ,48686,1998,26
+27,Coors Field,Denver,CO,50144,1995,27
+28,Dodger Stadium,Los Angeles,CA,56000,1962,28
+29,Petco Park,San Diego,CA,40209,2004,29
+30,Oracle Park,San Francisco,CA,41915,2000,30

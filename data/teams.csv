@@ -1,0 +1,31 @@
+team_id,team_name,city,state,division,league
+1,Yankees,New York,NY,East,American
+2,Red Sox,Boston,MA,East,American
+3,Blue Jays,Toronto,Ontario,East,American
+4,Rays,Tampa Bay,FL,East,American
+5,Orioles,Baltimore,MD,East,American
+6,White Sox,Chicago,IL,Central,American
+7,Guardians,Cleveland,OH,Central,American
+8,Tigers,Detroit,MI,Central,American
+9,Royals,Kansas City,MO,Central,American
+10,Twins,Minnesota,MN,Central,American
+11,Astros,Houston,TX,West,American
+12,Angels,Los Angeles,CA,West,American
+13,Athletics,Oakland,CA,West,American
+14,Mariners,Seattle,WA,West,American
+15,Rangers,Texas,TX,West,American
+16,Braves,Atlanta,GA,East,National
+17,Marlins,Miami,FL,East,National
+18,Mets,New York,NY,East,National
+19,Phillies,Philadelphia,PA,East,National
+20,Nationals,Washington,DC,East,National
+21,Cubs,Chicago,IL,Central,National
+22,Reds,Cincinnati,OH,Central,National
+23,Brewers,Milwaukee,WI,Central,National
+24,Pirates,Pittsburgh,PA,Central,National
+25,Cardinals,St. Louis,MO,Central,National
+26,Diamondbacks,Arizona,AZ,West,National
+27,Rockies,Colorado,CO,West,National
+28,Dodgers,Los Angeles,CA,West,National
+29,Padres,San Diego,CA,West,National
+30,Giants,San Francisco,CA,West,National
