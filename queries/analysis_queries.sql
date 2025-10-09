@@ -39,8 +39,8 @@ GROUP BY
 HAVING 
     SUM(pgs.at_bats) >= 10
 ORDER BY 
-    batting_average DESC
-LIMIT 10;
+    5 DESC
+FETCH FIRST 10 ROWS ONLY;
 
 -- 3. Top 5 Pitchers by ERA (minimum 10 innings pitched)
 SELECT 
@@ -63,7 +63,7 @@ HAVING
     SUM(pgs.innings_pitched) >= 10
 ORDER BY 
     ERA ASC
-LIMIT 5;
+FETCH FIRST 5 ROWS ONLY;
 
 -- 4. Home Field Advantage Analysis
 SELECT 
